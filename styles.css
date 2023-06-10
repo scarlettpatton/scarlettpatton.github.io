@@ -1,0 +1,35 @@
+body {
+    background-color: #3A4454;
+}
+p {
+    color: #C6B38E;
+}
+.heading {
+    text-align: center;
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 20px;
+    color: #C6B38E;
+}
+.nav {
+    text-align: center;
+}
+.navBtn {
+    background-color: #D8DCFF;
+    border-radius: 8px;
+    border: none;
+    padding: 20px;
+    text-align: center;
+    font-size: 16px;
+}
+.navBtn:hover {
+    background-color: #C6B38E;
+}
+.about {
+    text-align: center;
+}
+.resume {
+
+}
+.contact {
+    text-align: center;
+}
