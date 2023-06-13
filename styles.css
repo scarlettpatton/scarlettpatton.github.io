@@ -9,9 +9,11 @@ p {
     font-family: 'Courier New', Courier, monospace;
     font-size: 20px;
     color: #C6B38E;
+    margin: 20px;
 }
 .nav {
     text-align: center;
+    margin: 20px;
 }
 .navBtn {
     background-color: #D8DCFF;
@@ -24,12 +26,32 @@ p {
 .navBtn:hover {
     background-color: #C6B38E;
 }
-.about {
+.homeContent {
+    margin: 20px;
     text-align: center;
 }
+.about {
+    text-align: center;
+    margin: 20px;
+}
 .resume {
- align-items: center;
+    text-align: center;
+    margin: 20px;
+}
+.projects {
+    margin: 20px;
+    
 }
 .contact {
     text-align: center;
+    margin: 20px;
+}
+#pdfView {
+    width: 80%;
+    height: 700px;
+    margin: 20px;
+}
+#profileImg {
+    width: 365px;
+    border-radius: 50%;
 }
