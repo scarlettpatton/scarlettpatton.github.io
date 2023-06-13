@@ -1,3 +1,6 @@
+function toHome() {
+    window.location.href = "index.html";
+}
 function toAbout() {
     window.location.href = "about.html";
 }
@@ -9,7 +12,4 @@ function toProjects() {
 }
 function toContact() {
     window.location.href = "contact.html";
-}
-function toHome() {
-    window.location.href = "index.html";
 }
