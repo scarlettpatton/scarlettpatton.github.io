@@ -4,6 +4,12 @@ body {
 p {
     color: #C6B38E;
 }
+a {
+    color: white;
+}
+h3 {
+    color: #D8DCFF;
+}
 .heading {
     text-align: center;
     font-family: 'Courier New', Courier, monospace;
@@ -54,10 +60,4 @@ p {
 #profileImg {
     width: 365px;
     border-radius: 50%;
-}
-a {
-    color: white;
-}
-h3 {
-    color: #D8DCFF;
 }
