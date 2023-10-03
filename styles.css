@@ -45,8 +45,8 @@ h3 {
     margin: 20px;
 }
 .projects {
-    margin: 20px;
-    
+    margin: auto;
+    width: 50%;
 }
 .contact {
     text-align: center;
