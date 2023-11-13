@@ -38,7 +38,8 @@ h3 {
 }
 .about {
     text-align: center;
-    margin: 20px;
+    margin: auto;
+    width: 50%;
 }
 .resume {
     text-align: center;
@@ -58,6 +59,6 @@ h3 {
     margin: 20px;
 }
 #profileImg {
-    width: 365px;
+    height: 340px;
     border-radius: 50%;
 }
